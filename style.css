@@ -1,0 +1,202 @@
+.container {
+    border: 2px solid red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+.top-nav {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+.nav-links {
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+
+.nav-title {
+    color: antiquewhite;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.boton1 {
+    color: antiquewhite;
+    background-color: dodgerblue;
+    box-shadow: 2px 2px 2px 1px rgba(6, 6, 12, 0.767);
+    width: 150px;
+
+}
+
+.bloq1 {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    align-items: center;
+
+}
+
+.sec-bloq1 {
+    border: 2px solid blue;
+    width: 400px;
+    height: 250px;
+    margin: 5px;
+}
+
+.nav-tit {
+    height: 100px;
+    width: 390px;
+    background-color: rgb(0, 213, 255);
+    margin: 5px;
+}
+
+.nombre {
+    margin: 5px;
+}
+
+.img1 {
+    height: 15px;
+    width: 15px;
+}
+
+.img2 {
+    height: 20px;
+    width: 20px;
+}
+
+.ciudad {
+    margin: 5px;
+}
+
+.l1 {
+    margin: 5px;
+}
+
+.l2 {
+    margin: 5px;
+}
+
+.perfil {
+    margin: 5px;
+}
+
+.sec-bloq2 {
+    border: 2px solid blue;
+    width: 400px;
+    height: 250px;
+    margin: 5px;
+}
+
+.bloq2 {
+    border: 2px solid darkmagenta;
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+
+}
+
+.tit-sec-bloq2 {
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    vertical-align: middle;
+}
+
+.Edu {
+    color: white;
+    background-color: black;
+    height: 50px;
+    margin: 0%;
+}
+
+.p1 {
+    font-family: cursive;
+}
+
+.p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.p3 {
+    font-style: italic;
+}
+
+.asi-bloq21 {
+    border: 2px solid blue;
+    width: 200px;
+    height: 150px;
+    vertical-align: middle;
+}
+
+.asi-bloq22 {
+    border: 2px solid blue;
+    width: 200px;
+    height: 300px;
+    margin: 5px;
+}
+
+.tit-asi-bloq21 {
+    
+    height: 50px;
+    color: aliceblue;
+    background-color: black;
+}
+
+.titulo1 {
+    color: white;
+}
+#btnaside2 {
+    color: black;
+    background-color: white;
+    border-style: none;
+    border-radius: 50px;
+}
+.tit-asi-bloq22 {
+    height: 50px;
+    color: aliceblue;
+    background-color: black;
+
+}
+
+.titulo2 {
+    color: white;
+}
+
+spam {
+    background-color: aliceblue;
+    color: black;
+    border-radius: 50%;
+    width: 30px;
+    height: 20px;
+    padding: 10px;
+}
+
+.foto{
+    width: 30px;
+    height: 30px;   
+}
+.nom1 {
+    margin: 5px;
+}
+
