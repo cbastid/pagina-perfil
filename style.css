@@ -62,9 +62,13 @@ a:hover {
     height: 250px;
     margin: 5px;
 }
-
+.user{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
 .nav-tit {
-    height: 100px;
+    height: 60px;
     width: 390px;
     background-color: rgb(0, 213, 255);
     margin: 5px;
